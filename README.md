@@ -51,7 +51,7 @@ Do you have a question?
 > The scripts do not have .sh extension because when they are placed in the menu, the name becomes long. I removed it because it is not necessary. You can change the name.
 
 > [!IMPORTANT]
-> dot forget to  chmod a+x [yourscript]
+> don't forget to  chmod a+x [yourscript]
 
 > [!WARNING]
 > 
@@ -70,4 +70,4 @@ Do you have a question?
 [(Back to top)](#table-of-contents)
 
 
-The MIT License (MIT) Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+The MIT License (MIT) Please have a look at the [LICENSE.md](LICENSE) for more details.
